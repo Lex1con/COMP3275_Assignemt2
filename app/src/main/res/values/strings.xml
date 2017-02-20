@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="task_items">
+        <item>Accelerometer Sensor</item>
+        <item>Gyroscope Sensor</item>
+        <item>Proximity Sensor</item>
+        <item>GPS Location</item>
+        <item>Bluetooth</item>
+        <item>All Stored Locations</item>
+    </string-array>
+    <string name="title_activity_accelerometer">Accelerometer Activity</string>
+    <string name="title_activity_gyroscope">Gyroscope Activity</string>
+    <string name="title_activity_proximity">Proximity Activity</string>
+    <string name="title_activity_gps">GPS Activity</string>
+    <string name="title_activity_bluetooth">Bluetooth Activity</string>
+    <string name="title_activity_all_stored_locations">All Stored Locations</string>
+</resources>
